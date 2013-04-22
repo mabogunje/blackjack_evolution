@@ -1,0 +1,17 @@
+===================================================================
+    Included in this folder, are only two (2) sample results.
+    One representative of the trivial case, where you aim to 
+    beat a bad dealer. The other represantative of the complex
+    case where you aim to beat a good dealer.
+===================================================================
+
+However you may create your own results easily, by modifying the
+`EXPORT_FILE` variable in BPE.m and giving it your output a unique
+filename.
+
+NOTE THAT DEPENDING ON YOUR PARAMETERS, COMPUTATIONS MAY TAKE
+EXPONENTIALLY LONGER TO FIND THE SOLUTION YOU DESIRE.
+
+Do not be afraid to press `CTRL+C` and kill the program should
+this occur. You can always try again with revised params and
+see if you will be more successful.

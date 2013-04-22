@@ -1,0 +1,26 @@
+=========================================
+    BLACKJACK PLAYER EVOLUTION (BPE)
+=========================================
+
+
+The Matlab program (`BPE/BPE.m`) explores lightly the application of 
+Evolutionary AI methods to improve a player's chances at winning a 
+game of blackjack against a fixed dealer policy.
+
+Initialization variables may be set at the beginning of the file to
+experiment with different computation values, and at the end of the
+file to control output.
+
+By default it assumes random policies for both player and dealer,
+computes based on it's default parameters, and outputs to the 
+console as well as to a CSV file called `BPE_results.csv`
+
+For more on what the program does, and how it works, see:
+(1) Comments in `BPE.m`, (2) `docs/.*`, (3) `results/README`
+
+Beyond these, no efforts have been made to further document
+the experiment.
+
+         ==============================================
+        | This Program was created by Damola Mabogunje |
+         ==============================================
